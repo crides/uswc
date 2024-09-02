@@ -1,12 +1,12 @@
-(footprint "globtech-241SMT-TH-4BC2LS"
+(footprint "globtek-241SMT-TH-4BC2LS"
 	(version 20240108)
 	(generator "pcbnew")
 	(generator_version "8.0")
 	(layer "F.Cu")
-	(descr "USB TYPE C, RA RCPT PCB, SMT, https://www.amphenolcanada.com/StockAvailabilityPrice.aspx?From=&PartNum=12401610E4%7e2A")
-	(tags "USB C Type-C Receptacle SMD")
+	(descr "USB TYPE C")
+	(tags "USB C Type-C Plug SMD")
 	(property "Reference" "REF**"
-		(at -0.12 -4.46 0)
+		(at -0.12 -4.86 0)
 		(layer "F.SilkS")
 		(uuid "9aacb549-467c-4495-85eb-94ac0ec1fad3")
 		(effects
@@ -16,8 +16,8 @@
 			)
 		)
 	)
-	(property "Value" "globtech-241SMT-TH-4BC2LS"
-		(at -0.12 8.04 0)
+	(property "Value" "globtek-241SMT-TH-4BC2LS"
+		(at -0.12 7.64 0)
 		(layer "F.Fab")
 		(uuid "759a288e-7e71-4283-81d5-4029205085ef")
 		(effects
@@ -28,7 +28,7 @@
 		)
 	)
 	(property "Footprint" ""
-		(at -0.12 1.9 0)
+		(at -0.12 1.5 0)
 		(unlocked yes)
 		(layer "F.Fab")
 		(hide yes)
@@ -41,7 +41,7 @@
 		)
 	)
 	(property "Datasheet" ""
-		(at -0.12 1.9 0)
+		(at -0.12 1.5 0)
 		(unlocked yes)
 		(layer "F.Fab")
 		(hide yes)
@@ -54,7 +54,7 @@
 		)
 	)
 	(property "Description" ""
-		(at -0.12 1.9 0)
+		(at -0.12 1.5 0)
 		(unlocked yes)
 		(layer "F.Fab")
 		(hide yes)
@@ -78,8 +78,8 @@
 		(uuid "8de4f6e9-bb3f-43d4-b1ee-384e311b65fa")
 	)
 	(fp_rect
-		(start -4.6 -2.9)
-		(end 4.6 11.35)
+		(start -4.6 -3.3)
+		(end 4.6 10.95)
 		(stroke
 			(width 0.12)
 			(type default)
@@ -89,7 +89,7 @@
 		(uuid "cd886179-587d-4466-9a81-45223c5d3c82")
 	)
 	(fp_text user "${REFERENCE}"
-		(at -0.12 1.9 0)
+		(at -0.12 1.5 0)
 		(layer "F.Fab")
 		(uuid "342bd272-5355-46cc-8003-3b9404c64a6b")
 		(effects
@@ -100,79 +100,79 @@
 		)
 	)
 	(pad "A1" smd rect
-		(at 2.75 -2.25 180)
+		(at 2.75 -2.65 180)
 		(size 0.3 0.8)
 		(layers "F.Cu" "F.Paste" "F.Mask")
 		(uuid "19db812f-109a-43c0-8c36-c62bf5339a2c")
 	)
 	(pad "A2" smd rect
-		(at 2.25 -2.25 180)
+		(at 2.25 -2.65 180)
 		(size 0.3 0.8)
 		(layers "F.Cu" "F.Paste" "F.Mask")
 		(uuid "b2b488a1-77f6-4a87-87d2-c50e9fa3f33a")
 	)
 	(pad "A3" smd rect
-		(at 1.75 -2.25 180)
+		(at 1.75 -2.65 180)
 		(size 0.3 0.8)
 		(layers "F.Cu" "F.Paste" "F.Mask")
 		(uuid "fd52fd5b-7516-471e-b906-7e8a110756fb")
 	)
 	(pad "A4" smd rect
-		(at 1.25 -2.25 180)
+		(at 1.25 -2.65 180)
 		(size 0.3 0.8)
 		(layers "F.Cu" "F.Paste" "F.Mask")
 		(uuid "af567fd8-1b0b-4e41-b59c-73ad3828f689")
 	)
 	(pad "A5" smd rect
-		(at 0.75 -2.25 180)
+		(at 0.75 -2.65 180)
 		(size 0.3 0.8)
 		(layers "F.Cu" "F.Paste" "F.Mask")
 		(uuid "e002a928-c69d-4aa5-b7bf-425b9f784cd1")
 	)
 	(pad "A6" smd rect
-		(at 0.25 -2.25 180)
+		(at 0.25 -2.65 180)
 		(size 0.3 0.8)
 		(layers "F.Cu" "F.Paste" "F.Mask")
 		(uuid "299a155b-1678-4aa7-af4f-981e384493e9")
 	)
 	(pad "A7" smd rect
-		(at -0.25 -2.25 180)
+		(at -0.25 -2.65 180)
 		(size 0.3 0.8)
 		(layers "F.Cu" "F.Paste" "F.Mask")
 		(uuid "7a3f0c8f-c12d-41d1-8e85-a87061f9da69")
 	)
 	(pad "A8" smd rect
-		(at -0.75 -2.25 180)
+		(at -0.75 -2.65 180)
 		(size 0.3 0.8)
 		(layers "F.Cu" "F.Paste" "F.Mask")
 		(uuid "9717ecb1-3e50-4712-ae62-6c8b56bd7b12")
 	)
 	(pad "A9" smd rect
-		(at -1.25 -2.25 180)
+		(at -1.25 -2.65 180)
 		(size 0.3 0.8)
 		(layers "F.Cu" "F.Paste" "F.Mask")
 		(uuid "37569dab-d7e1-4f03-b3a9-67d1cbce4c19")
 	)
 	(pad "A10" smd rect
-		(at -1.75 -2.25 180)
+		(at -1.75 -2.65 180)
 		(size 0.3 0.8)
 		(layers "F.Cu" "F.Paste" "F.Mask")
 		(uuid "813ac32d-8495-4b2e-ac0e-32bca337a07e")
 	)
 	(pad "A11" smd rect
-		(at -2.25 -2.25 180)
+		(at -2.25 -2.65 180)
 		(size 0.3 0.8)
 		(layers "F.Cu" "F.Paste" "F.Mask")
 		(uuid "ab33561d-5678-468f-b47f-eb09a93eada1")
 	)
 	(pad "A12" smd rect
-		(at -2.75 -2.25 180)
+		(at -2.75 -2.65 180)
 		(size 0.3 0.8)
 		(layers "F.Cu" "F.Paste" "F.Mask")
 		(uuid "890765de-dfad-441c-a4c7-7f83371481d8")
 	)
 	(pad "B1" thru_hole circle
-		(at -2.75 -0.6)
+		(at -2.75 -1)
 		(size 0.7 0.7)
 		(drill 0.45)
 		(layers "*.Cu" "*.Mask")
@@ -180,7 +180,7 @@
 		(uuid "9685cb2d-253e-4283-bb81-938b43cc663c")
 	)
 	(pad "B2" thru_hole circle
-		(at -2.25 -1.33)
+		(at -2.25 -1.73)
 		(size 0.7 0.7)
 		(drill 0.45)
 		(layers "*.Cu" "*.Mask")
@@ -188,7 +188,7 @@
 		(uuid "82ad7af3-28a1-4fd3-912c-8f4be4245f4e")
 	)
 	(pad "B3" thru_hole circle
-		(at -1.75 -0.6)
+		(at -1.75 -1)
 		(size 0.7 0.7)
 		(drill 0.45)
 		(layers "*.Cu" "*.Mask")
@@ -196,7 +196,7 @@
 		(uuid "c2b192b6-1865-4256-b143-1327ca145628")
 	)
 	(pad "B4" thru_hole circle
-		(at -1.25 -1.33)
+		(at -1.25 -1.73)
 		(size 0.7 0.7)
 		(drill 0.45)
 		(layers "*.Cu" "*.Mask")
@@ -204,7 +204,7 @@
 		(uuid "6ab1815a-2b67-41b4-84bc-7293104d6c09")
 	)
 	(pad "B5" thru_hole circle
-		(at -0.75 -0.6)
+		(at -0.75 -1)
 		(size 0.7 0.7)
 		(drill 0.45)
 		(layers "*.Cu" "*.Mask")
@@ -212,7 +212,7 @@
 		(uuid "ae4e6d55-3717-4054-8f4d-d64bceb3a029")
 	)
 	(pad "B6" thru_hole circle
-		(at -0.25 -1.33)
+		(at -0.25 -1.73)
 		(size 0.7 0.7)
 		(drill 0.45)
 		(layers "*.Cu" "*.Mask")
@@ -220,7 +220,7 @@
 		(uuid "dc3256f4-ba09-4015-ad44-e9066922858e")
 	)
 	(pad "B7" thru_hole circle
-		(at 0.25 -0.6)
+		(at 0.25 -1)
 		(size 0.7 0.7)
 		(drill 0.45)
 		(layers "*.Cu" "*.Mask")
@@ -228,7 +228,7 @@
 		(uuid "d3330059-3970-47a6-91e3-865501067071")
 	)
 	(pad "B8" thru_hole circle
-		(at 0.75 -1.33)
+		(at 0.75 -1.73)
 		(size 0.7 0.7)
 		(drill 0.45)
 		(layers "*.Cu" "*.Mask")
@@ -236,7 +236,7 @@
 		(uuid "6fe325bb-aaa4-429c-8a7d-a8189377dcec")
 	)
 	(pad "B9" thru_hole circle
-		(at 1.25 -0.6)
+		(at 1.25 -1)
 		(size 0.7 0.7)
 		(drill 0.45)
 		(layers "*.Cu" "*.Mask")
@@ -244,7 +244,7 @@
 		(uuid "b6634dff-ebfc-46ff-b38d-70a5a0ec1724")
 	)
 	(pad "B10" thru_hole circle
-		(at 1.75 -1.33)
+		(at 1.75 -1.73)
 		(size 0.7 0.7)
 		(drill 0.45)
 		(layers "*.Cu" "*.Mask")
@@ -252,7 +252,7 @@
 		(uuid "472e4fb7-ca1b-4cd1-baf9-707406849fc4")
 	)
 	(pad "B11" thru_hole circle
-		(at 2.25 -0.6)
+		(at 2.25 -1)
 		(size 0.7 0.7)
 		(drill 0.45)
 		(layers "*.Cu" "*.Mask")
@@ -260,7 +260,7 @@
 		(uuid "4164d65c-3032-4dbf-9080-7d0f4a428b36")
 	)
 	(pad "B12" thru_hole circle
-		(at 2.75 -1.33)
+		(at 2.75 -1.73)
 		(size 0.7 0.7)
 		(drill 0.45)
 		(layers "*.Cu" "*.Mask")
@@ -268,7 +268,7 @@
 		(uuid "c79d77e1-b4d1-4915-8faa-b190e87c2d5c")
 	)
 	(pad "S1" thru_hole oval
-		(at -4.27 -1.9)
+		(at -4.27 -2.3)
 		(size 1 2.5)
 		(drill oval 0.5 2)
 		(layers "*.Cu" "*.Mask")
@@ -276,21 +276,21 @@
 		(uuid "953c7ecd-376b-403b-b03b-d89f29363d63")
 	)
 	(pad "S1" smd rect
-		(at -3.55 -0.7)
-		(size 0.45 1.4)
+		(at -3.55 -0.9)
+		(size 0.45 1.76)
 		(layers "F.Cu" "F.Paste" "F.Mask")
 		(thermal_bridge_angle 45)
 		(uuid "3affdb0b-5a83-412e-8580-3ecf25bd3cac")
 	)
 	(pad "S1" smd rect
-		(at 3.55 -0.7)
-		(size 0.45 1.4)
+		(at 3.55 -0.9)
+		(size 0.45 1.76)
 		(layers "F.Cu" "F.Paste" "F.Mask")
 		(thermal_bridge_angle 45)
-		(uuid "f570e95e-5677-46b8-bbf9-8195ddbcde4f")
+		(uuid "816e92a0-d72f-402c-bfeb-1667aac43f12")
 	)
 	(pad "S1" thru_hole oval
-		(at 4.27 -1.9)
+		(at 4.27 -2.3)
 		(size 1 2.5)
 		(drill oval 0.5 2)
 		(layers "*.Cu" "*.Mask")
@@ -299,7 +299,7 @@
 	)
 	(model "${KICAD8_3DMODEL_DIR}/Connector_USB.3dshapes/USB_C_Receptacle_Amphenol_12401610E4-2A.wrl"
 		(offset
-			(xyz -0.12 -1.9 0)
+			(xyz -0.12 -1.5 0)
 		)
 		(scale
 			(xyz 1 1 1)

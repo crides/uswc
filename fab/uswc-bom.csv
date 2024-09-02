@@ -23,7 +23,7 @@
 "USB_C_Receptacle_USB2.0_16P","J1","Connector_USB:USB_C_Receptacle_HRO_TYPE-C-31-M-12","C165948"
 "USB3150-30-130-A","J3","lib:USB3150-30-130-A",""
 "jlink","J4","Connector_PinHeader_1.27mm:PinHeader_2x05_P1.27mm_Vertical_SMD",""
-"DFP","P1","lib:jingtuojin_918-118A2021S40000","C5343530"
+"DFP","P1","lib:GT-USB-8012A","C2982483"
 "5.1k","R1","Resistor_SMD:R_0603_1608Metric",""
 "5.1k","R2","Resistor_SMD:R_0603_1608Metric",""
 "27","R3","Resistor_SMD:R_0603_1608Metric",""

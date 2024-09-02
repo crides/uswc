@@ -21324,7 +21324,7 @@
 				)
 			)
 		)
-		(property "Footprint" "lib:jingtuojin_918-118A2021S40000"
+		(property "Footprint" "lib:GT-USB-8012A"
 			(at 38.1 114.3 0)
 			(effects
 				(font
@@ -21351,7 +21351,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC#" "C5343530"
+		(property "LCSC#" "C2982483"
 			(at 34.29 114.3 0)
 			(effects
 				(font
