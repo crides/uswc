@@ -284,7 +284,6 @@
 		(drill 0.45)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
-		(solder_mask_margin 0.102)
 		(uuid "ffca49b0-5ac4-41be-bc13-4a705cfda7f6")
 	)
 	(pad "2" thru_hole circle
@@ -293,7 +292,6 @@
 		(drill 0.45)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
-		(solder_mask_margin 0.102)
 		(uuid "d8f47d43-4282-401f-bda8-632fa61d9c9f")
 	)
 	(pad "3" thru_hole circle
@@ -302,7 +300,6 @@
 		(drill 0.45)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
-		(solder_mask_margin 0.102)
 		(uuid "dca05ee8-c16a-4934-9f9d-83aa41dd639b")
 	)
 	(pad "4" thru_hole circle
@@ -311,7 +308,6 @@
 		(drill 0.45)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
-		(solder_mask_margin 0.102)
 		(uuid "a3eaa956-35f5-4c2d-951f-cc970ac0a00d")
 	)
 	(pad "5" thru_hole circle
@@ -320,7 +316,6 @@
 		(drill 0.45)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
-		(solder_mask_margin 0.102)
 		(uuid "e087e161-10a9-4b95-8e95-a776b3b7b4c8")
 	)
 	(pad "6" thru_hole circle
@@ -329,7 +324,6 @@
 		(drill 0.7)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
-		(solder_mask_margin 0.102)
 		(uuid "ee319739-203e-4eb7-98a6-d24c87ab87d4")
 	)
 	(pad "6" thru_hole circle
@@ -338,7 +332,6 @@
 		(drill 0.55)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
-		(solder_mask_margin 0.102)
 		(uuid "a25f235a-e890-4d44-8712-713d721f9d06")
 	)
 	(pad "6" thru_hole circle
@@ -347,7 +340,6 @@
 		(drill 0.55)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
-		(solder_mask_margin 0.102)
 		(uuid "141d0dc4-b32d-4163-a5fa-b2f063a33023")
 	)
 	(pad "6" thru_hole circle
@@ -356,7 +348,6 @@
 		(drill 0.55)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
-		(solder_mask_margin 0.102)
 		(uuid "5c200555-45fb-48ea-bafd-5b2cdaecf83f")
 	)
 	(pad "6" thru_hole circle
@@ -365,7 +356,6 @@
 		(drill 0.55)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
-		(solder_mask_margin 0.102)
 		(uuid "4d357bcd-f6b5-431b-8fd6-0725ae745d6d")
 	)
 	(pad "6" thru_hole circle
@@ -374,7 +364,6 @@
 		(drill 0.7)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
-		(solder_mask_margin 0.102)
 		(uuid "ac20cbc4-9086-427f-97b1-49e1fdc038dc")
 	)
 	(model "${KIPRJMOD}/lib/USB3150-30-130-A.step"
