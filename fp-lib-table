@@ -2,4 +2,6 @@
   (version 7)
   (lib (name "misc")(type "KiCad")(uri "${KIPRJMOD}/kleeb/misc.pretty")(options "")(descr ""))
   (lib (name "lib")(type "KiCad")(uri "${KIPRJMOD}/lib")(options "")(descr ""))
+  (lib (name "uswc")(type "KiCad")(uri "${KIPRJMOD}/uswc.pretty")(options "")(descr ""))
+  (lib (name "mcu")(type "KiCad")(uri "${KIPRJMOD}/kleeb/mcu.pretty")(options "")(descr ""))
 )
