@@ -521,7 +521,7 @@
       "plot": "fab/",
       "pos_files": "fab/",
       "specctra_dsn": "",
-      "step": "",
+      "step": "uswc.step",
       "svg": "",
       "vrml": ""
     },

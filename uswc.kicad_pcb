@@ -83,6 +83,7 @@
 		)
 		(pad_to_mask_clearance 0)
 		(allow_soldermask_bridges_in_footprints no)
+		(aux_axis_origin 81.6 119)
 		(grid_origin 84.3 127.875)
 		(pcbplotparams
 			(layerselection 0x00010fc_ffffffff)
@@ -11955,7 +11956,7 @@
 		(descr "SOT, 3 Pin (https://www.jedec.org/sites/default/files/docs/Mo-178D.PDF inferred 3-pin variant), generated with kicad-footprint-generator ipc_gullwing_generator.py")
 		(tags "SOT TO_SOT_SMD")
 		(property "Reference" "U5"
-			(at -4.15 -0.75 360)
+			(at -4.15 -0.75 0)
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "817817a2-a88c-4f37-80cd-ac2a96fc643b")
