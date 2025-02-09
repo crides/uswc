@@ -3,4 +3,5 @@
   (lib (name "misc")(type "KiCad")(uri "${KIPRJMOD}/kleeb/misc.kicad_sym")(options "")(descr ""))
   (lib (name "USB3150-30-130-A")(type "KiCad")(uri "${KIPRJMOD}/lib/USB3150-30-130-A.kicad_sym")(options "")(descr ""))
   (lib (name "uswc")(type "KiCad")(uri "${KIPRJMOD}/uswc.kicad_sym")(options "")(descr ""))
+  (lib (name "ic")(type "KiCad")(uri "${KIPRJMOD}/kleeb/ic.kicad_sym")(options "")(descr ""))
 )
